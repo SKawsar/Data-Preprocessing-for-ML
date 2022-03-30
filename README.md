@@ -1,10 +1,9 @@
 # Data Preprocessing with Python
 
 #### Lecture 01: Importing Data with Pandas
-- Challenges of reading a CSV or Excel file
-- Choose columns by name before reading a csv file
-- Choose columns by number before reading a csv file
-- Reading only the first n number of rows
+- Challenges of reading a CSV file
+- Understanding the data
+- Finding Data Statistics, data types and missing value information
 
 #### Lecture 02: Data Preprocessing with Pandas (Part 1)
 - Challenges of reading a CSV or Excel file
