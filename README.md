@@ -18,3 +18,10 @@
 - Checking the unique values for each column
 - performing calculation in dataframe columns
 - dataframe sorting
+
+#### Lecture 5: Handling Missing values
+- performing data cleaning
+- data visualization of missing values
+- string to datetime conversion
+- removing missing values
+- replacing missing values by: 1. mean, 2. median, 3. constant, 4. interpolation, 5. forward imputation, 6. backward imputation
