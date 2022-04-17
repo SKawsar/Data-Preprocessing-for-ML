@@ -31,7 +31,7 @@
 #### Lecture 06: Data Joining using Pandas
 - inner join, outer join, left join, right join
 
-#### Lecture 7: Data Aggregation/grouping and Pivot table using Pandas
+#### Lecture 07: Data Aggregation/grouping and Pivot table using Pandas
 - Data filtering
 - Data preprocessing
 - Data Aggregation/grouping 
