@@ -1,3 +1,9 @@
+I taught Data Preprocessing with Python to 200+ students through an online platform. These are the course materials I built for my students (Mostly graduate-level students from the Non-CS background).
+
+Video Lectures on YouTube: https://lnkd.in/gK5epasB
+
+Medium blogs for pandas: https://kawsar34.medium.com/list/learn-pandas-from-leetcode-a06903853aed
+
 # Data Preprocessing with Python
 
 #### Lecture 01: Importing Data with Pandas
